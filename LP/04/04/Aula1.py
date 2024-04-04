@@ -7,3 +7,4 @@ media = (nota1 + nota2)/2
 if (media >=70):
     print(f'sua média é : {media} -->Aprovado')
 print('Fim do programa')    
+
